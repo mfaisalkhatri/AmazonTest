@@ -1,0 +1,10 @@
+*.class
+*.jpeg
+*.jpg
+*.png
+.classpath
+.project
+test-output/
+target/
+.settings/
+logs/
